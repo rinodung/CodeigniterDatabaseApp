@@ -1,0 +1,15 @@
+body > .container {
+}
+
+#docNav.affix {
+	top: 20px;
+	width: 263px;
+}
+
+h1, h2, h3, h4, h5, p {
+	margin-bottom: 20px;
+}
+
+div > p:last-child, div > ul:last-child {
+	margin-bottom: 50px;
+}
